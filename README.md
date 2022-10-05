@@ -13,3 +13,7 @@ npx create-react-app start
 cd start
 npm start
 
+# install
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install @material-ui/styles
